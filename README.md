@@ -1,9 +1,8 @@
 # HealthCare-Dashboard
 
-<img width="540" alt="image" src="https://github.com/somyakabra/HealthCare-Dashboard/assets/97023859/0412efbc-2664-45e4-997c-858f4172d3fa">
+<img width="800" alt="image" src="https://github.com/somyakabra/HealthCare-Dashboard/assets/97023859/0412efbc-2664-45e4-997c-858f4172d3fa">
 
 
-<img width="540" alt="302088657-0412efbc-2664-45e4-997c-858f4172d3fa" src="https://github.com/raj3000k/healthcare-dashboard/assets/91799854/fa218083-48d9-40d9-89cc-bb8919ede0ec">
 
 
 # Steps that I followed:-
