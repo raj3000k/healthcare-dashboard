@@ -1,6 +1,7 @@
 # HealthCare-Dashboard
 
-<img width="800" alt="image" src="https://github.com/somyakabra/HealthCare-Dashboard/assets/97023859/0412efbc-2664-45e4-997c-858f4172d3fa">
+<img width="568" alt="338437534-491950ac-ef7d-42b2-a3b8-b8c6380d7f47" src="https://github.com/raj3000k/healthcare-dashboard/assets/91799854/6c4c264a-63c4-4796-93f0-675badb6e524">
+
 
 
 
